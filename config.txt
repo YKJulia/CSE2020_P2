@@ -1,2 +1,7 @@
 
 git config --global user.email julja1996@mail.ru
+
+.gitignore Node dependency directories, can be automatically regenerated every time
+
+node_modules/
+jspm_packages/
