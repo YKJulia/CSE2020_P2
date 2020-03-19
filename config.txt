@@ -1,0 +1,2 @@
+git config --global user.name "Julia Kalasnikova"
+git config --global user.email julja1996@mail.ru
